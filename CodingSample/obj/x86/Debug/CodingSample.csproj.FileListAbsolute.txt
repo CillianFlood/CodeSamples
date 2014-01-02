@@ -1,0 +1,9 @@
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\CodingSample.Form1.resources
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\CodingSample.Properties.Resources.resources
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\bin\Debug\CodingSample.exe
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\bin\Debug\CodingSample.pdb
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\CodingSample.exe
+C:\Users\Cillian\Desktop\CodingSample\CodingSample\obj\x86\Debug\CodingSample.pdb
